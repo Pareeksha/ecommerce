@@ -1,0 +1,88 @@
+const list = [
+  {
+    id: 1,
+    title: "boAt Rockerz 558 Bluetooth WirelessHeadphones",
+    price: 1789,
+    img: "https://m.media-amazon.com/images/I/61leGjTDm0L._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 2,
+    title: "Canon Digital SLR Camera",
+    price: 37998,
+    img: "https://m.media-amazon.com/images/I/914hFeTU2-L._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 3,
+    title: "Samsung Galaxy M33 5G mobile",
+    price: 17499,
+    img: "https://m.media-amazon.com/images/I/81xvGbBFNhL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 4,
+    title: "Samsung Galaxy Tab A8 ",
+    price: 16999,
+    img: "https://m.media-amazon.com/images/I/91veRYPjpeL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: "HP 15s, 11th Gen Intel Core i5 Laptop",
+    price: 52999,
+    img: "https://m.media-amazon.com/images/I/71y-nJm3NiL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 6,
+    title: "boAt Rockerz 245 pro Bluetooth Neckband ",
+    price: 999,
+    img: "https://m.media-amazon.com/images/I/61DHTu6aisL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 7,
+    title: "SanDisk Ultra Dual Drive  ",
+    price: 1036,
+    img: "https://m.media-amazon.com/images/I/81i8riahalS._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 8,
+    title: "boAt Airdopes 121v2",
+    price: 1199,
+    img: "https://m.media-amazon.com/images/I/510+wjzq-vL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 9,
+    title: "Apple 2022 MacBook Air Laptop",
+    price: 119900,
+    img: "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 10,
+    title: "boAt Stone 352 Bluetooth Speaker ",
+    price: 1599,
+    img: "https://m.media-amazon.com/images/I/61K8FS335JL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 11,
+    title: "JBL earphones black",
+    price: 599,
+    img: "https://m.media-amazon.com/images/I/51Q8DUDT2eL._AC_UY218_.jpg",
+    amount: 1,
+  },
+  {
+    id: 12,
+    title: "boAt Xtend/Xtend RTL Smartwatch",
+    price: 1499,
+    img: "https://m.media-amazon.com/images/I/61gscZYmaoL._AC_UY218_.jpg",
+    amount: 1,
+  },
+];
+
+export default list;
